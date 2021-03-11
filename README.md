@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+![5-121204193R5-50](https://user-images.githubusercontent.com/17404296/110807278-d4780f80-82bd-11eb-8930-d6ffd22acd24.gif) 
+
+Don't leave. I'm loading...
+
 <!--
 **leyayun/leyayun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 
